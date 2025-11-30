@@ -44,6 +44,11 @@
   color:black;
   margin: 0 16px;
   font-size: 18px;
+
+  &:hover{
+    color: #FEE1A5;
+    cursor: pointer;
+  }
 }
 
 .blog-description {
